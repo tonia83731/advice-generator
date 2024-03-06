@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-drop-shadow:hover{
+    filter: drop-shadow(0 0px 40px rgb(83, 255, 170));
+}
+.btn-drop-shadow:active {
+    filter: drop-shadow(0 0px 40px rgb(83, 255, 170));
+}
